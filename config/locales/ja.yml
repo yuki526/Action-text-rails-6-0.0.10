@@ -11,6 +11,7 @@ ja:
               too_long: が%{count}文字を超えています。
             content: 
               too_long: が%{max_content_length}文字を超えています。[%{length}/%{max_content_length}]
+              content_attachment_byte_number_is_too_many: の添付ファイル数は%{max_number}個までにしてください。
     attributes: 
       post: 
         title: タイトル
